@@ -1,0 +1,10 @@
+Package Version:
+Numpy 1.21.5
+Pandas 1.5.1
+XGBoost 1.7.1
+Optuna 3.0.3
+Scikit-learn 1.0.2
+
+Python Version:
+3.9.13 (main, Aug 25 2022, 18:29:29) 
+[Clang 12.0.0 ]
